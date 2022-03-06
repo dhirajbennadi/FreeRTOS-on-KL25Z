@@ -7,3 +7,8 @@ This project creates and executes 4 tasks to implement the following functionali
 
 The project also demonstrates the functionalities of MUTEX to protect critical resources, in this case the shared resource (PRINT statements)
 
+
+## Serial Terminal Output
+![SerialTerminal](https://github.com/dhirajbennadi/FreeRTOS-on-KL25Z/blob/main/ResultScreenshots/SerialTerminalOutput.png)
+
+## LED Output
