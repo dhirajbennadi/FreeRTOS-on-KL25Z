@@ -12,3 +12,6 @@ The project also demonstrates the functionalities of MUTEX to protect critical r
 ![SerialTerminal](https://github.com/dhirajbennadi/FreeRTOS-on-KL25Z/blob/main/ResultScreenshots/SerialTerminalOutput.png)
 
 ## LED Output
+
+https://user-images.githubusercontent.com/89832913/156946271-4c648fbc-8f41-4e83-aeb9-2cbafd8ea447.mp4
+
